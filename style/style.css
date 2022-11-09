@@ -1,0 +1,25 @@
+#wrapper{
+	width: 90%;
+	height: 600px;
+	margin:0 auto;
+}
+
+.head{
+	height: 50px;
+	background-color: red;
+}
+
+.sidebar{
+	width: 15%;
+	float: left;
+	background-color: lightgrey;
+	height: 550px;
+}
+
+.main{
+	width: 85%;
+
+	float: right;
+	background-color: lightblue;
+	height: 550px;
+}
